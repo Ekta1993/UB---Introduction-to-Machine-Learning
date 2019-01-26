@@ -1,0 +1,3 @@
+The purpose of this project is to resolve the problem of Learning to Rank by minimizing the root mean square error for the dataset on which we are training our model.
+We need to train our linear regression model with Learning to Rank dataset using Closed form solution in such a way that we obtain minimum root mean square error.
+We need to train our linear regression model with Learning to Rank dataset using Stochastic Gradient descent in such a way that we obtain minimum root mean square error.
