@@ -1,0 +1,5 @@
+The goal of the project is to implement the logic in Python using tensorflow/keras libraries.
+It also includes the following tasks:
+*Need to create a training data set for numbers ranging from 101 to 1000.
+*We need to present this training set to the program in the form of (input, output) pairs.
+*To design the learning program, you will have to make decisions on hyper-parameters such as the learning rate, the number of epochs, loss function and regularizer.
