@@ -1,0 +1,1 @@
+In this experiment, my task was to train Tom(Agent) to navigate in the grid world environment in order to find the shortest path to Jerry(Goal), given that the initial positions of both the agent and goal id deterministic using deep reinforcement learning algorithm – Deep Q-Network.
