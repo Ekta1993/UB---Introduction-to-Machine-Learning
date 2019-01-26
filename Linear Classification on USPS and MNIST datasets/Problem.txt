@@ -1,0 +1,7 @@
+Evaluate each solution on the test set using classification accuracy,
+Acc = Ncorrect , (1)
+N
+where Ncorrect is the number of corrected classified data samples, and N is the total number of samples of the validation set. Under the 1-of-K coding scheme, each data sample will be assigned a class label as
+C = argmax yi, (2) where y ∈ RK is the output probability distribution over classes.
+2. Construct a confusion matrix for each classifier and observe the relative strengths and weaknesses.
+3. Evaluate the performance of the ensemble classifier.
